@@ -4,7 +4,6 @@ const initialFormValues = {fullname: '', phone_number: ''}
 
 function Form({addContact, contacts}) {
   const [form, setForm] = useState(initialFormValues)
-  const [reset, setReset] = useState('')
 
   const onChangeInput = (e) =>{
     setForm({...form, [e.target.name]: e.target.value})
