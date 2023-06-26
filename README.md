@@ -1,7 +1,10 @@
 Contacts Project
-❮img src="https://prnt.sc/vftzXh2EVgbM" ❯
-![alt text](https://prnt.sc/vftzXh2EVgbM)
+
+![alt text](README/photo1.png)
+
 Contact Add
-![alt text](https://prnt.sc/IaK7kI3GaE0C)
+![alt text](README/photo2.png)
+
 Contact Filter
-![alt text](https://prnt.sc/iVJfoBipy0iF)
+![alt text](README/photo3.png)
+
